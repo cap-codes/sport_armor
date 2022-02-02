@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sport_armor/static/css/main.e23cb341.css",
-    "main.js": "/sport_armor/static/js/main.8fd017e0.js",
+    "main.js": "/sport_armor/static/js/main.0bf6e2dd.js",
     "static/js/787.8219b892.chunk.js": "/sport_armor/static/js/787.8219b892.chunk.js",
     "index.html": "/sport_armor/index.html",
     "main.e23cb341.css.map": "/sport_armor/static/css/main.e23cb341.css.map",
-    "main.8fd017e0.js.map": "/sport_armor/static/js/main.8fd017e0.js.map",
+    "main.0bf6e2dd.js.map": "/sport_armor/static/js/main.0bf6e2dd.js.map",
     "787.8219b892.chunk.js.map": "/sport_armor/static/js/787.8219b892.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e23cb341.css",
-    "static/js/main.8fd017e0.js"
+    "static/js/main.0bf6e2dd.js"
   ]
 }
