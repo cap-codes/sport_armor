@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/sport_armor/static/css/main.2f36399d.css",
-    "main.js": "/sport_armor/static/js/main.32821b3f.js",
+    "main.css": "/sport_armor/static/css/main.b6701e49.css",
+    "main.js": "/sport_armor/static/js/main.5fb06c4f.js",
     "static/js/787.8219b892.chunk.js": "/sport_armor/static/js/787.8219b892.chunk.js",
+    "static/media/equipment.jpg": "/sport_armor/static/media/equipment.b4c00bec42385e59a490.jpg",
+    "static/media/exercises.jpg": "/sport_armor/static/media/exercises.cb2320e8d17522087832.jpg",
+    "static/media/news.jpg": "/sport_armor/static/media/news.b9bc1fb4ca4c585f0311.jpg",
     "static/media/wallpaper.jpg": "/sport_armor/static/media/wallpaper.8be2e5d33b4050b8b7b9.jpg",
+    "static/media/recipes.jpg": "/sport_armor/static/media/recipes.362f85c69b671f0f2ac7.jpg",
     "index.html": "/sport_armor/index.html",
-    "main.2f36399d.css.map": "/sport_armor/static/css/main.2f36399d.css.map",
-    "main.32821b3f.js.map": "/sport_armor/static/js/main.32821b3f.js.map",
+    "main.b6701e49.css.map": "/sport_armor/static/css/main.b6701e49.css.map",
+    "main.5fb06c4f.js.map": "/sport_armor/static/js/main.5fb06c4f.js.map",
     "787.8219b892.chunk.js.map": "/sport_armor/static/js/787.8219b892.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f36399d.css",
-    "static/js/main.32821b3f.js"
+    "static/css/main.b6701e49.css",
+    "static/js/main.5fb06c4f.js"
   ]
 }
